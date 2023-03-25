@@ -1,0 +1,10 @@
+Shortest path from Maynard & 2nd to Walnut & LL
+Vertices IDs for shortest path: 17 -> 22 -> 3 -> 1 -> 2
+Path with distances: Maynard & 2nd - 51.0km -> Maynard & 4th - 324.0km -> Campbell & 4th - 42.0km -> Campbell & LL - 351.0km -> Walnut & LL
+Total Distance : 768.0km
+
+Shortest path from PCT Maynard to Mulberry & LL
+Vertices IDs for shortest path: 19 -> 18 -> 16 -> 15 -> 3 -> 1 -> 2 -> 5 -> 6 -> 7
+Path with distances: PCT Maynard - 55.0km -> Maynard & 2nd - 322.0km -> Campbell & 2nd - 27.0km -> Campbell & 3rd - 51.0km -> Campbell & 4th - 42.0km -> Campbell & LL - 351.0km -> Walnut & LL - 805.0km -> Hepburn & LL - 411.0km -> Market & LL - 205.0km -> Mulberry & LL
+Total Distance : 2269.0km
+
